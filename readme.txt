@@ -39,11 +39,14 @@ features. I added some more stuff instead.
 
 
 Legal stuff:
+ 
+Music is property of Nightbeat and usage was granted for this project only.
 
-All graphics and models are owned by me, and I ask you 
-NOT to use them for something else. 
-Music is property of Nightbeat and usage was granted.
 
+Addendum 04/2017:
+
+This project remained unversioned until now and was uploaded as is.
+Please respect license.txt.
 
 -Ninjaball
 http://www.firoball.de
