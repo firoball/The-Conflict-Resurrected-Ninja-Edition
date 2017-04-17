@@ -1,0 +1,58 @@
+Log of A8 Engine 8.20.1 run at Sun Mar 11 23:12:12 2012
+Firo on Windows NT/2000/XP version 6.1 Build 7601
+Options hh_demo.c -lrvl e:\projects\Acknex\projectdta\editor\level.lvl -wnd -diag -nx 60 -th
+App: D:\acknex8\acknex.exe in E:\projects\Acknex\hh_demo\source\v3\
+
+MM mixer opened
+DSOUND device opened
+DI interface opened
+Start Window opened(c) Conitec - www.3dgamestudio.com
+A8 Engine - Pro Edition V8.20.1 - May 12 2011
+Development version
+Registered to: Robert Jäger
+
+Mouse found
+Lautsprecher (Realtek High Definition Audio) opened
+NVIDIA GeForce GTX 460 pure T&L device 1ff9 detected
+D3D device NVIDIA GeForce GTX 460 1ff9 selected.
+acknet.dll opened
+ackphysx.dll opened
+ackwii.dll opened
+Compiling HH_DEMO.C - [Esc] to abort..
+PATH bmaps\
+PATH D:\acknex8\code\
+PATH D:\acknex8\templates\images\.................. 0.389 sec
+Running HH_DEMO.C.
+2 objects
+Main started at 1.453
+D3D_Init Window: 720x480 -> Window: 1x720x480x32
+Video memory found: 4054 MB
+D3D_Resize Screen: 1920x1200 -> Screen: 1x1920x1200x32
+mtlfx_startup started
+def_startup started
+Main loop at 1.545
+LevelInit at 1.545
+138 entities 1 cameras 2 lights 0 sounds 1 paths
+ 4 lmaps 2 textures 25 meshes 3720 faces
+0 entities 0 cameras 1 lights 0 sounds 1 paths
+ 0 lmaps 1 textures
+0 entities 0 cameras 0 lights 0 sounds 1 paths
+ 0 lmaps 1 textures
+0 entities 0 cameras 0 lights 0 sounds 1 paths
+ 0 lmaps 1 textures
+0 entities 0 cameras 0 lights 0 sounds 1 paths
+ 0 lmaps 1 textures
+0 entities 0 cameras 0 lights 0 sounds 1 paths
+ 1 lmaps 2 textures...ok
+LevelReady at 1.880....
+1st frame with 4054 MB. at 1.900
+HEADRELATIVE sound: 1
+Normal exit at 4.279
+Close level,DLL,objects
+Free input,funcs,panels,defs,syns,views,strings,vars..ok
+Free sounds,bmaps,fonts,hash,defs1,script..ok
+Close dx,multimedia,D3D,engine,nexus..ok
+A8 Engine - Pro Edition V8.20.1 - May 12 2011
+(c) Conitec - www.3dgamestudio.com
+Registered to: Robert Jäger
+Close window at 4.606
